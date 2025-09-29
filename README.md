@@ -65,7 +65,7 @@ I’m open to:
 
 **Reach out:**
 
-📧 [kofoworolaegbinola@gmail.com](mailto:kofoworolaegbinola@gmail.com)  
+📧 [kofoworolaegbinola@gmail.com](mailto:egbinolakofoworola@gmail.com)  
 💼 [LinkedIn – Kofoworola E.](https://www.linkedin.com/in/kofoworola-egbinola-m/)  
 
 ---
