@@ -31,8 +31,10 @@ As a data scientist with a strong foundation in statistics and machine learning,
 
 ## 🔍 Featured Projects
 
-| Project | Value Proposition | Tools |
-|--------|-------------------|-------|
+| Project |      Value Proposition        |    Tools    |
+|---------|-------------------------------|-------------|
+|**22nd Century Sporting League: Flight Logistics Optimization** | Helped the league plan operations by determining the **maximum number of jets needed** and forecasting **fuel spend for the 2102 season**, enabling better budgeting and resource allocation. | Python (Pandas, Matplotlib, Statsmodels), SARIMA, Time Series Forecasting |
+
 
 ---
 
@@ -47,9 +49,8 @@ As a data scientist with a strong foundation in statistics and machine learning,
 
 ## 🧰 Tools & Tech Stack
 
-- Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, PyTorch, XGBoost)
-- NLP (spaCy, NLTK, Transformers)
-- SQL & Airtable
+- Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, etc)
+- SQL
 - Streamlit, Power BI
 - Git, VS Code, Jupyter
 
@@ -65,7 +66,7 @@ I’m open to:
 
 **Reach out:**
 
-📧 [kofoworolaegbinola@gmail.com](mailto:egbinolakofoworola@gmail.com)  
+📧 [egbinolakofoworola@gmail.com](mailto:egbinolakofoworola@gmail.com)  
 💼 [LinkedIn – Kofoworola E.](https://www.linkedin.com/in/kofoworola-egbinola-m/)  
 
 ---
