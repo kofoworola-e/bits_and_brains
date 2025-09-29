@@ -17,7 +17,7 @@ As a data scientist with a strong foundation in statistics and machine learning,
 ## 💡 What You'll Find Here
 
 ### ✅ Real-World Case Studies
-- Built around **business use cases**, not just academic toy problems.
+- Built around **business use cases**.
 - Focused on **impact**: churn reduction, sales optimization, customer segmentation, automation, etc.
 
 ### ✅ End-to-End ML Projects
