@@ -33,7 +33,7 @@ As a data scientist with a strong foundation in statistics and machine learning,
 
 | Project |      Value Proposition        |    Tools    |
 |---------|-------------------------------|-------------|
-|**22nd Century Sporting League: Flight Logistics Optimization** | Helped the league plan operations by determining the **maximum number of jets needed** and forecasting **fuel spend for the 2102 season**, enabling better budgeting and resource allocation. | Python (Pandas, Matplotlib, Statsmodels), SARIMA, Time Series Forecasting |
+|[**22nd Century Sporting League: Flight Logistics Optimization**](https://github.com/kofoworola-e/bits_and_brains/tree/main/22nd_league_mini_case_study) | Helped the league plan operations by determining the **maximum number of jets needed** and forecasting **fuel spend for the 2102 season**, enabling better budgeting and resource allocation. | Python (Pandas, Matplotlib, Statsmodels), SARIMA, Time Series Forecasting |
 
 
 ---
